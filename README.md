@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/PhonePe_Logo.svg/200px-PhonePe_Logo.svg.png" width="160" alt="PhonePe Logo"/>
-</p>
-
 <h1 align="center">PhonePe Transaction Insights</h1>
 
 <p align="center">
